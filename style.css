@@ -1,0 +1,12 @@
+body{
+    background-image: url("math.jpg");
+}
+.div1, .div2{
+    background-color: gold;
+    padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+input{
+    background-color: indigo;
+}

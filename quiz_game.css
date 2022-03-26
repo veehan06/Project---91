@@ -1,0 +1,21 @@
+#output
+{
+background: orange;
+border-radius: 10px;
+border-top: 10px solid gold;
+padding: 10px;
+float: none;
+text-align: left;
+}
+body{
+    background-image: url(math.jpg);
+}
+div{
+    background-color: aqua;
+    padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+input{
+    background-color: indigo;
+}
